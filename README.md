@@ -10,5 +10,9 @@ Scores for getting into each department are as follows, physics and math for the
 
 
 Alternatively, there is scorespecial, which will act as an override students will be placed in departments based on which is higher.
-On run the program will ask for a integer input, this in the maximum number of students allowed in each department.
+
+
+On run the program will ask for a integer input, this is the maximum number of students allowed in each department.
+
+
 The output txt will only contain the students first name, last name, and the score that got them into the department.
